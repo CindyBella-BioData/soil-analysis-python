@@ -1,5 +1,5 @@
 # soil-analysis-python
-python tool to analyze soil conditions and generate agricultural recomendations
+python tool to analyze soil conditions and generate agricultural recomendations.
 # Soil Analysis Tool (Python)
 
 This project analyzes basic soil conditions and provides simple agricultural recommendations.
